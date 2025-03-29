@@ -1,2 +1,2 @@
 # pub_ts
-Tools for LaTeX publication typesetting
+Tools for publication typesetting
